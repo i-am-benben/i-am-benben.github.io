@@ -9,7 +9,7 @@ profile:
   image: benben.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>I am benben!</p>
+    <p>我和大佛，地点：大同的云冈石窟</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
@@ -25,4 +25,6 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello there! My name is benben!
+你好！我是笨笨！很高兴认识你！
+
+我是一个旅游专家，平常会在这里分享我的游记！
