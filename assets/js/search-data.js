@@ -16,7 +16,40 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/blog/";
           },
-        },{id: "books-the-godfather",
+        },{id: "post-文化笨旅-旅行的初心",
+        
+          title: "文化笨旅 - 旅行的初心",
+        
+        description: "旅行的原因",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/whytravel/";
+          
+        },
+      },{id: "post-文化笨旅-大同游记",
+        
+          title: "文化笨旅 - 大同游记",
+        
+        description: "大同游记",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/datong/";
+          
+        },
+      },{id: "post-a-post-with-plotly-js",
+        
+          title: "a post with plotly.js",
+        
+        description: "this is what included plotly.js code could look like",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/plotly/";
+          
+        },
+      },{id: "books-the-godfather",
           title: 'The Godfather',
           description: "",
           section: "Books",handler: () => {
